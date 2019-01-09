@@ -1,3 +1,5 @@
+//PT -- javadoc. -2
+
 public class Building {
     protected String name;
     protected int address;
