@@ -1,8 +1,11 @@
+//PT -- javadocs missing. -2
+
 abstract class Person {
     protected int age;
     protected String phoneNumber;
     protected String name;
 
+    //PT -- why have this if it's not used? -1
     Person() {}
     Person(String name_, String phoneNumber_, int age_)
     {
