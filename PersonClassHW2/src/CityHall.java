@@ -1,3 +1,5 @@
+//PT -- javadoc. -2
+
 import java.util.ArrayList;
 public class CityHall extends Building {
 
