@@ -1,3 +1,6 @@
+//PT -- this isn't really a City class. -2
+//PT -- javadoc. -2
+
 import java.util.ArrayList;
 public class CityTest {
 
